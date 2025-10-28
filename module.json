@@ -1,8 +1,8 @@
 {
-  "id": "pf2e-reactive-token-ring",
+  "id": "l5r5e-reactive-token-ring",
   "title": "REDY: Reactive Dynamic Token Rings",
   "description": "Adds some reaction for dynamic token rings",
-  "version": "#{VERSION}#",
+  "version": "1.0.0",
   "library": "false",
   "compatibility": {
     "minimum": 12,
@@ -76,9 +76,9 @@
       "path": "languages/pt-BR.json"
     }
   ],
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
+  "url": "https://github.com/DonHuberto/L5R5e-Reactive-Token-Ring",
+  "manifest": "https://raw.githubusercontent.com/DonHuberto/L5R5e-Reactive-Token-Ring/v1.0.0/module.json",
+  "download": "https://github.com/DonHuberto/L5R5e-Reactive-Token-Ring/releases/download/v1.0.0/module.zip"
   "license": "LICENSE",
   "readme": "README.md",
   "media": [
