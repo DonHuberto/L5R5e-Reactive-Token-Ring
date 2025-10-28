@@ -83,6 +83,12 @@ export function updateHasAllianceChange(actor, update) {
  */
 function getSystemKeys(actor) {
   switch (game.system.id) {
+    case "l5r5e":
+      return {
+        hpPath: "system.fatigue.value",
+        hpMaxPath: "system.fatigue.max",
+        zeroIsBad: false,
+      };
     case "a5e":
       return {
         hpPath: "system.attributes.hp.value",
